@@ -1,8 +1,4 @@
-[![Header](https://danibojado.files.wordpress.com/2020/10/dani-bojado-1.png?w=2048 "Header")](https://danibojado.com/)
-
-
-https://pin.it/1VkuMLi
-
+[![Header](file:///Users/dbojado/codeup-data-science/dbojado/Dani%20Bojado.png "Header")](https://danibojado.com/)
 
 Hello folks!
 - Contact: daniella.bojado@gmail.com
