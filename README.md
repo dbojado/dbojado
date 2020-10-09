@@ -1,4 +1,4 @@
-![](Dani_Bojado.png)(https://danibojado.com/)
+![](images/Dani_Bojado.png)(https://danibojado.com/)
 
 Hello folks!
 - Contact: daniella.bojado@gmail.com
