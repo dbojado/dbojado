@@ -1,4 +1,4 @@
-![Header](images/Dani_Bojado.png "Header")(https://danibojado.com/)
+[![Header](images/Dani_Bojado.png "Header")](https://danibojado.com/)
 
 Hello folks!
 - Contact: daniella.bojado@gmail.com
