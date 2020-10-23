@@ -2,5 +2,5 @@
 
 Hello folks!
 - Contact: daniella.bojado@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniella-b-a99633ab/) 
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniella-bojado) 
 - Website: [Portfolio Link](https://danibojado.com/) 
