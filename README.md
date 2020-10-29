@@ -10,4 +10,4 @@
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado)
 
-[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/dbojado/github-readme-stats)
+[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dbojado&theme=blue-green)](https://github.com/dbojado/github-readme-stats)
