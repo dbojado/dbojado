@@ -10,5 +10,4 @@
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado)
 
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/dbojado/github-readme-stats)
