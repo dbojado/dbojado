@@ -10,4 +10,4 @@
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado)
 
-https://forthebadge.com/images/badges/made-with-python.svg
+<img src=https://forthebadge.com/images/badges/made-with-python.svg/>
