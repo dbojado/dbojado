@@ -9,3 +9,5 @@
 - <b>Website:</b> [Portfolio Link](https://danibojado.com/) 
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado)
+
+https://forthebadge.com/images/badges/made-with-python.svg
