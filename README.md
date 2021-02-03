@@ -6,6 +6,6 @@
 - <b>LinkedIn:</b> [LinkedIn Profile](https://www.linkedin.com/in/daniella-bojado) 
 - <b>Website:</b> [Portfolio Link](https://danibojado.com/) 
 
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado)
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=dbojado.dbojado) 
 
 
